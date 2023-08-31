@@ -1,0 +1,30 @@
+.color{
+    display: flex;
+
+}
+
+
+.col-3 {
+    text-transform: uppercase;
+    
+}
+
+.col-5 {
+    text-transform: uppercase;
+}
+
+.vertical{
+    border-left: 1px dashed black;
+    top: 0%;
+    left: 50%;
+}
+
+.col-8 h2{
+    text-transform: uppercase ;
+}
+
+
+.h2{
+    text-transform: uppercase;
+}
+
